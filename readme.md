@@ -24,4 +24,4 @@ We made `linearize.py` to have minimum dependencies(PyTorch only), so we put som
 
 ### Notes
 
-If you find linearized multi-sampling useful in you project, please feel free to let us know by leaving an issue on this git repository or sending an email to jiangwei@uvic.ca.
+If you find linearized multi-sampling useful in you project, please feel free to let us know by leaving an issue on this git repository or sending an email to jiangwei1993@gmail.com.
